@@ -140,8 +140,8 @@ Data Science internship assignment.
 **Rageya Singh**
 B.Tech Computer Science — KIIT University, Bhubaneswar
 
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your_email@example.com
+- GitHub: [github.com/rageya](https://github.com/rageya)
+- Email: rageyasinghr@gmail.com
 
 ---
 
