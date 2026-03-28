@@ -89,13 +89,13 @@ trader-sentiment-analysis/
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
+git clone https://github.com/rageya/Bitcoin_Sentiment_Analysis.git
+cd Bitcoin_Sentiment_Analysis
 ```
 
 **Step 2 — Place the dataset files in the project root**
 ```
-historical_trades.csv
+historical_data.csv
 fear_greed_index.csv
 ```
 
