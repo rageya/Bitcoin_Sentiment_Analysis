@@ -1,0 +1,6 @@
+classification,avg_net_pnl,median_net_pnl,total_net_pnl,win_rate,trade_count,avg_size_usd,long_ratio,avg_streak_len,avg_fee,win_rate_pct,long_pct,profit_factor
+Extreme Fear,,,,,,,,,,,,
+Fear,48.964,-0.006,6554907.147,0.411,133871.0,5259.978,0.494,1.0,1.083,41.1,49.4,5.582
+Neutral,21.005,-0.07,149998.501,0.314,7141.0,3058.848,0.491,4.0,1.224,31.4,49.1,1.881
+Greed,87.224,-0.002,3165282.502,0.447,36289.0,3182.884,0.425,14.808,0.671,44.7,42.5,7.012
+Extreme Greed,24.44,0.046,170152.711,0.565,6962.0,5660.266,0.484,22.0,0.979,56.5,48.4,3.006
